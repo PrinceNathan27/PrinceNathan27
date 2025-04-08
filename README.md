@@ -6,7 +6,7 @@
 🔭 I'm passionate about Data Science, AI, Machine Learning, and Data Engineering<br>
 🌱 Master's in Data Science | 2× AWS Certified | Tableau Certified<br>
 📊 Turning data into stories that drive decisions and predict outcomes.<br>
-👨‍💻 Read more about my projects at <a href="https://bit.ly/portfolio-prince" target="_blank">Portfolio</a><br>
+👨‍💻 Read more about my projects at <a href="https://www.datascienceportfol.io/princenathan27" target="_blank">Portfolio</a><br>
 ⚡ Gym 💪 and Sports 🏀
 </p>
 
